@@ -35,7 +35,7 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 Contributions are welcome! Feel free to fork the repository and submit pull requests for enhancements or bug fixes.
 
 ## Author:
-Rifan- @rifan.stfu
+Rifan- @rifanstfu
 
 ## Acknowledgments:
 - GreenSock (GSAP) for powerful animation capabilities.
